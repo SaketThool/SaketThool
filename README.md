@@ -20,3 +20,7 @@ Welcome to my GitHub profile....
   *  Java
   *  Python
 * my favorite language currently is Python because It"s very easy to learn and make user easy to understand and read.
+
+# My octocat
+![My octocat.](octocat.png)
+
