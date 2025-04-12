@@ -22,5 +22,5 @@ Welcome to my GitHub profile....
 * my favorite language currently is Python because It"s very easy to learn and make user easy to understand and read.
 
 # My octocat
-![My octocat.](octocat.png)
+<img src="octocat.png" width="30%" />
 
